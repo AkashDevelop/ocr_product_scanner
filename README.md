@@ -10,7 +10,7 @@ An intelligent OCR-based solution that scans product labels and retrieves detail
 
 [demo video](https://github.com/user-attachments/assets/9800f808-36dd-4342-9b39-f6d146e2d2b2)
 
-## 🚀 Features
+##  Features
 
 - **Smart OCR Processing**: Advanced text extraction with noise removal
 - **Multi-Search Strategy**: Barcode + text search with 4-tier fallback
@@ -18,7 +18,7 @@ An intelligent OCR-based solution that scans product labels and retrieves detail
 - **Error-Resilient**: Handles poor quality images and missing products
 - **User-Friendly UI**: Simple drag-and-drop interface
 
-## 🧠 How I Solved the Problem
+##  How I Solved the Problem
 
 ### Approach to Requirements
 | Requirement | Our Solution |
