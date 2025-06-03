@@ -1,0 +1,6 @@
+
+EasyOCR
+
+Streamlit
+
+Requests
