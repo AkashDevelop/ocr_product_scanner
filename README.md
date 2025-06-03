@@ -18,7 +18,7 @@ An intelligent OCR-based solution that scans product labels and retrieves detail
 - **Error-Resilient**: Handles poor quality images and missing products
 - **User-Friendly UI**: Simple drag-and-drop interface
 
-## 🧠 How We Solved the Problem
+## 🧠 How I Solved the Problem
 
 ### Approach to Requirements
 | Requirement | Our Solution |
@@ -28,4 +28,12 @@ An intelligent OCR-based solution that scans product labels and retrieves detail
 | **Output Interface** | Streamlit web app with detailed product display |
 | **Error Handling** | Graceful degradation with user guidance |
 | **Edge Cases** | Multi-stage matching for partial information |
+
+## ⚙️ Installation
+
+```bash
+# Clone repository
+git clone https://github.comAkashDevelop/ocr_product_scanner.git
+cd ocr_scanner
+
 
